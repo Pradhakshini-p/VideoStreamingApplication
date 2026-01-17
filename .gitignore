@@ -29,3 +29,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+##🐳 Docker##
+*.env
+docker-compose.override.yml
+
+##💻 OS junk files##
+.DS_Store
+Thumbs.db
+
+##📜 Logs ##
+*.log
+logs/
