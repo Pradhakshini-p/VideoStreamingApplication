@@ -8,6 +8,27 @@ This application is made in such a way that it is scalable, reliable and secure.
 
 ![Architecture Image](arch.png)
 
+## Running the Project
+
+This project is a cloud-based microservices application.
+
+### Recommended Environment
+- Linux / Docker
+- Java 11+
+- Maven
+- Docker Compose
+
+⚠️ Note:
+Due to custom runtime arguments and microservice dependencies, 
+running all services directly on Windows may require additional configuration.
+
+For demonstration and evaluation purposes:
+- Architecture diagram
+- Service structure
+- Code implementation
+are provided in this repository.
+
+
 ### Run Application 
 
 * To package the whole application run `package.sh` script. This will generate jars in `Services/` folder for all microservices. To run all those jars execute `run.sh` script.
