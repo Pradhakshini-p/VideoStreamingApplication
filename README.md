@@ -1,4 +1,4 @@
-# Vidhyapak-VideoStreamingApplication
+# VideoStreamingApplication
 	
 A fully functional scalable, reliable, secure cloud based web application is developed as part of BTech final year project. This project is developed with Spring Boot and is deployed in AWS.
 
